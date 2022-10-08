@@ -1,9 +1,8 @@
-{\rtf1}
-Link to Tableau project: https://public.tableau.com/app/profile/adna3400/viz/CitiBikeProject_16652494368620/CitiBikeStory?publish=yes 
+# Link to Tableau project: https://public.tableau.com/app/profile/adna3400/viz/CitiBikeProject_16652494368620/CitiBikeStory?publish=yes 
 
-Analysis
+# Analysis
 
-Dashboard 1: Ride Stations by Usage
+## * Dashboard 1: Ride Stations by Usage
 
 Has a banner along the top with a quick summary showing: top/bottom 10 Start Stations: Avg Trip Duration, Distance & Total Trips. 
 We can see that the average trip duration for the top 10 start stations is almost half that of the bottom 10 start stations, whereas the distance travelled is only slightly shorter. The number of trips taken at the top 10 start stations is of course much higher than that of the bottom 10 stations.   
@@ -15,7 +14,7 @@ One possible explanation for the top 10 start stations having a shorter average 
 
 However, the least popular start stations were not the same as the least popular end stations. Only 1 trip was ended at the bottom 10 end stations. These stations are located further away from the rest of the bike stations, which could mean just a few irregular users used these bikes for one off trips. 
 	
-Dashboard 2: Monthly changes from Jan – Aug 2022
+## * Dashboard 2: Monthly changes from Jan – Aug 2022
 
 This dashboard has 4 figures: % user growth over the months, monthly changes I avg trip durations, peak start times & changes in annual members vs casual users. 
 
@@ -27,6 +26,6 @@ The peak journey start times for the summer & winter months were very similar �
 
 Finally, the final bar chart shows the changes in riders (broken down by annual subscribers & casual members) each month. During each month, the number of members are higher than the number of casual riders. Each month, the number of users of the bikes increase. 
 
-Map 
+## * Map 
 
 The map shows the start and end stations, along with the station ID and the zip code. The end stations are marked in blue with square marks, whereas the end stations are marked in orange with circle markers. We can see from the map that the popular stations have bigger markers, and they are closer together. The stations that are the furthest away are not used much, with some stations only having 1 ride ended there. 
