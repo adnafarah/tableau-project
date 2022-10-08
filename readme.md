@@ -1,4 +1,4 @@
-# Link to Tableau project: https://public.tableau.com/app/profile/adna3400/viz/CitiBikeProject_16652494368620/CitiBikeStory?publish=yes 
+## * Link to Tableau project: https://public.tableau.com/app/profile/adna3400/viz/CitiBikeProject_16652494368620/CitiBikeStory?publish=yes 
 
 # Analysis
 
